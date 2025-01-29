@@ -12,7 +12,7 @@ Xiaomi Pad 6 CalyxOS Build releases
 
     fastboot update rom.zip
 
-<li>to flash Magisk get boot.img from Zip and flash it</li>
+<li>to flash Magisk<br> get boot.img from ROM ZIP,<br> patch from Magisk,<br> move it to computer <br>flash it from fastboot</li>
 </div>
 
 <h2>Useful Links</h1>
