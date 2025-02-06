@@ -1,4 +1,7 @@
-# pipa-calyxos-releases
+# NOT SUPPORTED ANYMORE
+
+
+## pipa-calyxos-releases
 Xiaomi Pad 6 CalyxOS Build releases
 
 <h2>Installation Guide</h1>
